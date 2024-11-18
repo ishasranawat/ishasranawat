@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ishasinghranawat@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qt_aQCo4ES5T5Ci5wtQuhT78YF7wuPDg/view?usp=drivesdk">Your Desired Name</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qt_aQCo4ES5T5Ci5wtQuhT78YF7wuPDg/view?usp=drivesdk">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
