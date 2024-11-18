@@ -1,5 +1,5 @@
- Hi there 👋
-<h1 align="center">Hi 👋, I'm Isha Singh Ranawat</h1>
+ 
+<h1 align="center">Hi there, I'm Isha Singh Ranawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/ishasinghr" target="blank"><img src="https://img.shields.io/twitter/follow/ishasinghr?logo=twitter&style=for-the-badge" alt="ishasinghr" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ishasinghranawat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qt_aQCo4ES5T5Ci5wtQuhT78YF7wuPDg/view?usp=drivesdk](https://drive.google.com/file/d/1qt_aQCo4ES5T5Ci5wtQuhT78YF7wuPDg/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qt_aQCo4ES5T5Ci5wtQuhT78YF7wuPDg/view?usp=drivesdk]Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
