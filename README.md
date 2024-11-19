@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishasinghr" target="blank"><img src="https://img.shields.io/twitter/follow/ishasinghr?logo=twitter&style=for-the-badge" alt="ishasinghr" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack and Python** 
 
 - 📫 How to reach me **ishasinghranawat@gmail.com**
 
