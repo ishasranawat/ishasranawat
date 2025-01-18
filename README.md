@@ -1,5 +1,5 @@
  <h1 align="center">Hi there, I'm Isha Singh Ranawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer </h3>
 
 <p align="left"> <a href="https://twitter.com/ishasinghr" target="blank"><img src="https://img.shields.io/twitter/follow/ishasinghr?logo=twitter&style=for-the-badge" alt="ishasinghr" /></a> </p>
 
