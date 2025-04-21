@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/ishasinghr" target="blank"><img src="https://img.shields.io/twitter/follow/ishasinghr?logo=twitter&style=for-the-badge" alt="ishasinghr" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack and Python** 
+- 🌱 I’m currently learning **React and Python** 
 
 - 📫 How to reach me **ishasinghranawat@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qt_aQCo4ES5T5Ci5wtQuhT78YF7wuPDg/view?usp=drivesdk">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
