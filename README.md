@@ -1,7 +1,7 @@
  <h1 align="center">Hi there, I'm Isha Singh Ranawat</h1>
 <h3 align="center">An aspiring full stack developer </h3>
 
-<p align="left"> <a href="https://twitter.com/ishhasr" target="blank"><img src="https://img.shields.io/twitter/follow/ishasinghr?logo=twitter&style=for-the-badge" alt="ishasinghr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishhasr" target="blank"><img src="https://img.shields.io/twitter/follow/ishhasr?logo=twitter&style=for-the-badge" alt="ishhasr" /></a> </p>
  
 - 🌱 I’m currently learning **React and Python** 
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ishasinghr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishasinghr" height="30" width="40" /></a>
+<a href="https://twitter.com/ishaasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishasinghr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishasranawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishasranawat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishasr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishasinghranawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishasinghranawat" height="30" width="40" /></a>
