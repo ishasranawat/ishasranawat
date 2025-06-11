@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring full stack developer </h3>
 
 <p align="left"> <a href="https://twitter.com/ishhasr" target="blank"><img src="https://img.shields.io/twitter/follow/ishasinghr?logo=twitter&style=for-the-badge" alt="ishasinghr" /></a> </p>
-
+ 
 - 🌱 I’m currently learning **React and Python** 
 
 - 📫 How to reach me **ishasinghranawat@gmail.com**
